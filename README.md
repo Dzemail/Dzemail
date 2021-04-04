@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dzemail
 - 👀 I’m interested in networking using c++
 - 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on networking
+- 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me Dzemaiil@outlook.com
 
 <!---
